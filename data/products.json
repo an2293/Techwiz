@@ -1,0 +1,36 @@
+{
+    "products": [
+        {
+            "id":1, 
+            "name":"Jacket", 
+            "price":50, 
+            "origin":"UK",
+            "src":"./image/shorts.jfif",
+            "categoryId": 1
+        },
+        {            
+            "id":2, 
+            "name":"Shirt", 
+            "price":100, 
+            "origin":"VN",
+            "src":"./image/skirt.jfif",
+            "categoryId": 2
+        },
+        {
+            "id":1, 
+            "name":"Jacket", 
+            "price":50, 
+            "origin":"UK",
+            "src":"./image/shorts.jfif",
+            "categoryId": 1
+        },
+        {
+            "id":2, 
+            "name":"Shirt", 
+            "price":100, 
+            "origin":"VN",
+            "src":"./image/skirt.jfif",
+            "categoryId": 3
+       }
+    ]
+}

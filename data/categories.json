@@ -1,0 +1,19 @@
+{
+    "categories": [
+        {
+            "categoryId":1, 
+            "categoryName":"Food and drinks",         
+            "description": "This is drink"
+        },
+        {
+            "categoryId":2, 
+            "categoryName":"Electronics",         
+            "description": "This is drngfjkdink"
+        },
+        {
+            "categoryId":3, 
+            "categoryName":"Cake",         
+            "description": "Tfdfgdopjmgfhis is drink"
+        }
+    ]
+}
